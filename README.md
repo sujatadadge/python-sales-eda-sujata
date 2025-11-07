@@ -43,5 +43,4 @@ This project explores a real-world sales dataset and demonstrates how I applied 
 
 ---
 
-If you like, I can **customize** the README further with actual data descriptions (after you share dataset details) and prepare **GitHub issue templates** or **LinkedIn graphics** too. Would that be useful for you?
-::contentReference[oaicite:0]{index=0}
+
